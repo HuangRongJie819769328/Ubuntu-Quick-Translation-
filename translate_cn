@@ -1,0 +1,12 @@
+#! /bin/bash
+
+#定义变量word为鼠标选中的单词输出
+word=`xclip -out`  
+word=${word// /hrjkg}
+mean=`java -jar /bin/BaiduTranslate.jar /bin/key.conf 1 "${word}"`
+#结束系统通知框
+pkill notify-osd
+notify-send "翻译" "$mean"
+echo -n $mean | xclip -selection c
+#sleep 30s
+#pkill notify-osd
