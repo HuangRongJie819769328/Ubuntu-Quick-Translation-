@@ -11,4 +11,11 @@
 
 3.Edit key.conf （cn:配置key）    
 
+    #百度翻译api 
+    #http://api.fanyi.baidu.com/api/trans/product/desktop?req=developer
+    #APP_ID
+    20171225000108424
+    #SECURITY_KEY
+    8nFHHZtIAz0_vNfuburR
+
 4.Ubuntu set custom shortcuts （cn:ubuntu系统设置自定义快捷）
