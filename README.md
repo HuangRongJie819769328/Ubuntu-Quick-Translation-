@@ -23,3 +23,4 @@
 
 4.Ubuntu set custom shortcuts     
 （cn:ubuntu系统设置自定义快捷）
+![这里随便写文字](https://github.com/HuangRongJie819769328/Ubuntu-Quick-Translation-/blob/master/Screenshot/1.png)
